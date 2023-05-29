@@ -15,4 +15,5 @@ This neural network predicts the number of people's survival on titanic boat usi
 <br>
 <img src="https://github.com/hindupurv/Neural_Network_Titanic_Dataset/blob/main/Data_Visualization_FareDistributionByPassengerClass.png">
 
+:)
 
